@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247965606520",
+    "project_id": "fitxone-f6632",
+    "storage_bucket": "fitxone-f6632.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247965606520:android:d3d29bfe5c281dde59838d",
+        "android_client_info": {
+          "package_name": "com.example.thefitxone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Sc9BS6T090mckVZ8fac7uFHljFtZH7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
