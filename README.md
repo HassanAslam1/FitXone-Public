@@ -30,7 +30,7 @@ Development Tools: VS Code, Git, Postman
 ⚙️ Getting Started
 Follow the steps below to run the project locally.
 1️⃣ Clone the Repository
-git clone https://github.com/HassanAslam1/fitxone.git
+git clone https://github.com/HassanAslam1/FitXone-Public.git
 cd fitxone
 2️⃣ Install Dependencies
 flutter pub get
@@ -61,3 +61,4 @@ Muhammad Hassan Aslam
 Flutter Developer | Computer Science Undergraduate
 🔗 LinkedIn:  https://www.linkedin.com/in/muhammad-hassan-aslam-aa14772a6/
 🌐 Portfolio: hassanaslam.netlify.app
+
